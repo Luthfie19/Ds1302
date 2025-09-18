@@ -1,4 +1,4 @@
-# Otto diy Robot - MindPlus Extension (offline mode)
+# extention Real time clock DS1302 - MindPlus Extension (offline mode)
 
 ![](./arduinoC/_images/featured.png)
 
