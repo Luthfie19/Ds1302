@@ -1,0 +1,11 @@
+{
+	"MOVE_DIRECTION":{
+		"menu":[
+		  "Forward": "Maju",
+		  "Backward": "Mundur",
+		  "Left": "Belok Kiri",
+		  "Right": "Belok Kanan",
+		  "Stop": "Berhenti"
+		  ]
+	  }
+}

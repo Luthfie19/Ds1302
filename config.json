@@ -1,0 +1,26 @@
+{
+  "name": {
+    "en": "Real Time Clock",
+    "el": "Real Time Clock"
+  },
+  "description": {
+    "en": "Real Time Clock : DS1302",
+    "el": "Real Time Clock : DS1302"
+  },
+  "author": "Inorobo",
+  "email": "inorobo.rs@gmail.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "DS1302",
+  "platform": ["win", "mac", "web"],
+  "version": "0.0.1",
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+	  "libraries":["Ds1302-1.0.4"],
+      "version": "0.0.1",
+      "board": ["arduinonano", "arduino", "arduinounor3"],
+      "main": "main.ts"
+    }
+  }
+}
